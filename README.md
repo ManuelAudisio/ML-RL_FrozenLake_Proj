@@ -13,10 +13,8 @@ The main objective is to analyze and compare the performance of a classic tabula
   - `tabular_agent.py`: Implementation of the Tabular Q-Learning agent.
   - `dqn_agent.py`: Implementation of the Deep Q-Network agent.
   - `utils.py`: Utility functions for plotting and logging.
-- `/report`: Contains the final PDF report.
-- `/notebooks`: Jupyter notebooks for experimentation and visualization.
-- `/results`: (Git-ignored) Directory for saving generated plots and models.
-- `/final_showcase`: Directory for presenting final plots and models.
+  - `run_suite.py`, `analysis.py`, `visualize_policy.py`: other files to further analysis conducted
+
 
 ## How to Run
 
